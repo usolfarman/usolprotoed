@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "This product is excellent and works great!",
+    "sentiment": "positive"
+  },
+  {
+    "id": 2,
+    "text": "Terrible experience, would not recommend.",
+    "sentiment": "negative"
+  },
+  {
+    "id": 3,
+    "text": "It's okay, nothing special.",
+    "sentiment": "neutral"
+  }
+  // ... remaining results
+]

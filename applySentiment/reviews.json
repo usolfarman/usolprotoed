@@ -1,0 +1,6 @@
+[
+  {"id": 1, "text": "This product is excellent and works great!"},
+  {"id": 2, "text": "Terrible experience, would not recommend."},
+  {"id": 3, "text": "It's okay, nothing special."}
+  // ... up to 20 reviews
+]
